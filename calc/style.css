@@ -7,28 +7,16 @@
 div{
     height:100vh;
     width:100%;
-    background-image:linear-gradient(10deg,#cc590d,black);
+    background-image:linear-gradient(10deg,#57514d,black);
     display:flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-   
-
 }
-
 main {
-    
     background-color: rgba(0,0,0,0.60); 
 }
 
-h1{
-    color:hsl(0, 0%, 100%);
-    font-size:43px;
-    margin-bottom:9px;
-    text-align: center;
-    color:#867f7f;
-
-}
 p{  
     background-color: rgba(0, 0, 0, 0.56);
     color:#867f7f;
@@ -36,21 +24,30 @@ p{
     width:100%;
     
     padding-right:8px;
-    margin-bottom: 1.1px;
+    margin-bottom: 1.4px;
     font-weight:bold;
-    font-size:25px;
+    font-size:27px;
     display:flex;
     justify-content:flex-end;
     align-items:center;
 
 }
+h1{
+    color:hsl(0, 0%, 100%);
+    font-size:43px;
+    margin-bottom:9px;
+    text-align: center;
+    color:rgb(7, 190, 62);
+}
 button{
     width:60px;
     height:60px;
     cursor:pointer;
-    background-color: rgb(31,31,31);
+    background-color: rgb(7, 190, 62);
     color:#FFFFFF;
     margin:1px 1px;
+    font-weight: bold;
+    font-size:large;
     
 
 }
@@ -58,12 +55,12 @@ button:active{
     background-color: rgb(22, 21, 21);
 }
 
+#zBig{
+    width:123px;
+}
+
 .buttonBig{
     width:60px;
     height:124px;
 }
-#buttonBig{
-    width:125px;
-    height:60px;
-    
-}
+
