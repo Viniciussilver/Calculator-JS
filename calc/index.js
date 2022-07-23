@@ -4,7 +4,7 @@ const number= document.getElementById("result")
 function insert(num){
      number.innerHTML= number.innerHTML + num
 
-}
+} 
 
 function clean(){
     number.innerHTML= ""
