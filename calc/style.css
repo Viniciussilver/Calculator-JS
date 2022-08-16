@@ -32,6 +32,15 @@ p{
     align-items:center;
 
 }
+#static{
+    position:relative;
+    bottom:95px;
+    right:600px;
+    color:#928b8b;
+    font-size:40px;
+   
+    font-family:'Courier New', Courier, monospace;
+}
 h1{
     color:hsl(0, 0%, 100%);
     font-size:43px;
