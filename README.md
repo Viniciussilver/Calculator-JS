@@ -1,4 +1,4 @@
-## Calculator-JS
+## :memo: Calculadora feita em html, css e javascript.
 
-<h4>:memo: Calculadora feita com javaScript!!
-<h5>Link Da Aplicação: <a href="https://viniciussilver.github.io/Calculator-JS/calc/">Clique aqui</a>
+<p>Essa foi uma calculadora feita para estudar a linguagem javascript, caso alguém encontre algo que possa ser melhorado no código por favor me diga :D.</p>
+<p>Link Da Aplicação: <a href="https://viniciussilver.github.io/Calculator-JS/calc/">Clique aqui</a></p>
