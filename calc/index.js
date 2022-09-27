@@ -1,6 +1,9 @@
 const number = document.getElementById("result");
 
 function insert(num) {
+  if(number.innerHTML.length >= 17 ){
+     return 
+  }
   number.innerHTML = number.innerHTML + num;
 }
 
